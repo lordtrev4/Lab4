@@ -13,7 +13,7 @@
 | Trevor Nguyen |
 | Zachary Lam   |
 
-##Screenshots
+## Screenshots
 
 ### Exercise B
 

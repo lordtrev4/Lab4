@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 
 - for exercise A, we cloned the GitHub repository through VSCode, as well as the push and pull function.
 
@@ -6,11 +6,12 @@
 
 - for exercise D, we formatted the README file to explain the overview of the project, as well as the group members and screenshots of the completed results.
 
-##Team Members
-| Name |
-|---------------|
+## Team Members
+
+| Name          |
+| ------------- |
 | Trevor Nguyen |
-| Zachary Lam |
+| Zachary Lam   |
 
 ##Screenshots
 
